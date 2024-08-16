@@ -9,3 +9,9 @@ a{
     color: green;
     font-family: Arial, Helvetica, sans-serif;
 }
+.btn {
+    width: 200px;
+    height: 30px;
+    background: green;
+    color: white;
+}
