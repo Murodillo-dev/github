@@ -1,2 +1,2 @@
 # github
-gut hub project
+git hub project
